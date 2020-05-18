@@ -1,6 +1,7 @@
 // Package example is a CoreDNS plugin that prints "example" to stdout on every packet received.
 //
 // It serves as an example CoreDNS plugin with numerous code comments.
+// gsoc2020
 package example
 
 import (
