@@ -1,5 +1,7 @@
 # example
 
+@yongtang, @greenpau
+
 ## Name
 
 *example* - prints "example" on every query handled.
